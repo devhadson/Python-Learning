@@ -1,9 +1,12 @@
+⭐ Si este repositorio te resulta útil, considera darle una ⭐ aquí en GitHub (haz clic en el botón de estrella en la esquina superior derecha). Es una forma rápida de mostrar tu apoyo a este código de acceso abierto. ⭐
+
+# 🚀 Acerca del repositorio
+## Ruta de aprendizaje de [Python](https://docs.python.org/3/)
+
 ## CONTENIDO
 
-[PRE - REQUISITOS](docs/CLONAR.CODIGO.VENV.md)
-
-[ESTRUCTURA DE LOS PROYECTOS](#estructura-de-los-proyectos)
-
+[PRE - REQUISITOS](docs/CLONAR.CODIGO.VENV.md)<br>
+[ESTRUCTURA DE LOS PROYECTOS](#estructura-de-los-proyectos)<br>
 [DESCRIPCION DE LOS EJEMPLOS](#descripcion-de-los-ejemplos)
 
 # ESTRUCTURA DE LOS PROYECTOS
